@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">TappMarket</string>
+    <string name="product_label">Product</string>
+    <string name="empty_products_message">No products in this category</string>
+    <string name="button_buy">BUY</string>
+    <string name="button_sell">SELL</string>
+    <string name="label_details">DETAILS</string>
+
+</resources>
